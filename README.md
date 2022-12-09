@@ -1,6 +1,6 @@
 # ID_Assignment
 
-# Your Project's Name
+# Jai's Burger
 
 Hi! my name is Jai, and I am excited to share my website with you all. The website that I have created is a fast food restuarant. The restruarant name is called "Jai's Burger". In today's fast paced society, everyone is very busy with their own things and don't really have the time to go out and order food. Hence, they turn to online delivery to order their favourite food and enjoy it at the comfort of their home. Furthermore, our society is digitally revolutionising as everybody is moving towards digital technology hence in order to adapt to this revolution, I have decided to create a website that provides delivery of authentic chicken burgers inspired from our locals in Singapore at a much more affordable price online.
 
