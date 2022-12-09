@@ -19,7 +19,6 @@ My website is suitable for all ages but it mainly targets the younger generation
 
 ### Features Left to Implement 
 
-- Another feature idea
 - I would like to add a loading page so that when my users click the order button there is a waiting room for them to wait before their order is successfully         confirmed
 
 - I would like to add the function where my users can view their cart to see what they have bought overall and make changes before paying. 
@@ -38,9 +37,14 @@ From my testing, I have discovered that the website is responsive at 400px width
 
 ## Credits
 
-### Content- The text for review was copied from [Beraparupiah](https://beraparupiah.com/ber-30-good-restaurant-review-examples-to-copy-paste) website
+### Content
 
-### Media- The photos used in this site were obtained from [Freepik](https://img.freepik.com/premium-photo/burger-with-flying-elements_147620-1942.jpg?w=2000")
+- The text for review was copied from [Beraparupiah](https://beraparupiah.com/ber-30-good-restaurant-review-examples-to-copy-paste) website
+
+### Media
+
+- The photos used in this site were obtained from [Freepik](https://img.freepik.com/premium-photo/burger-with-flying-elements_147620-1942.jpg?w=2000)
+- 
 - Another photo used in this site was obtained from [Help Zazzle](https://help.zazzle.com/hc/article_attachments/360010513393/Logos-01.png)
 
 ### Acknowledgements
